@@ -4,8 +4,8 @@
   </a>
 </div>
 
-<h1 align="center">Welcome! I'm Professor 🧑‍🎓 </h1>
-<h3 align="center">Android Developer | Web Developer | Cybersecurity Enthusiast | Bot Developer</h3>
+<h1 align="center">Welcome! I'm Student 🧑‍🎓 </h1>
+<h3 align="center">Developer | Web Developer | C++/Software Engg. Enthusiast | Bot Developer</h3>
 
 ---
 
@@ -44,19 +44,12 @@
 ---
 
 <div align="center">
-  <h2>🌟 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <h2>🌟 GitHub States</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=LearnOnix&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LearnOnix&theme=radical" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Most Used Languages">
-</div>
-
----
-
-<div align="center">
-  <h2>📊 GitHub Activity Graph</h2>
-  <img src="https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LearnOnix&layout=compact&theme=radical" alt="Most Used Languages">
 </div>
 
 ---
